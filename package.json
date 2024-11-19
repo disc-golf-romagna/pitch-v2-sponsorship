@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export",
+    "export:ppt": "slidev export --format pptx",
+    "export:png": "slidev export --format png",
+    "export:md": "slidev export --format md"
+  },
+  "dependencies": {
+    "@slidev/cli": "latest",
+    "@slidev/theme-apple-basic": "^0.25.1",
+    "@slidev/theme-seriph": "latest"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.48.1"
+  }
+}
