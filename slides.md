@@ -67,6 +67,14 @@ small {
 .col-left.europe h2 {
   font-size: 1.45rem;
 }
+
+.slidev-layout.small p {
+    font-size: .95rem;
+}
+
+.slidev-layout.small li {
+    font-size: .90rem;
+}
 </style>
 
 # Disc Golf Romagna
@@ -130,64 +138,12 @@ class: europe
 
 ::right::
 ### Il caso
-- Strategia chiave: Integrazione urbana con mini-percorsi
-- 2015: 25 percorsi → 2024: oltre 200 percorsi
-- 60% sono percorsi urbani da 6-9 ceste
-- Popolazione coinvolta: da 500 a 50.000+ giocatori
-### Fattori di Successo
-- Approccio Multi-livello
-- Mini-percorsi urbani (5-6 ceste) nei parchi cittadini
-- Percorsi completi (9-18 ceste) nelle zone periferiche
+- Percorsi fissi: 25 percorsi nel 2015, oltre 200 percorsi nel 2024
+- Popolazione coinvolta: circa 500 nel 2015, oltre 50.000 giocatori nel 2024
 ### Benefici Dimostrati
 - Turismo sportivo (+300% dal 2019)
 - Costi di manutenzione minimi
 - Alto ritorno sociale dell'investimento
-
----
-layout: image-left
-image: /dgr.png
-class: progetto
----
-
-# Disc Golf Romagna
-## Proposta per la promozione del <span class="text-cyan-500">Disc Golf</span> in <span class="text-pink-500">Romagna</span>
-<br/>
-
-- creazione di alcuni mini percorsi 6 ceste a Forli (min 2-3 ha, es. Parco Bargossi)
-- creazione di alcuni mini percorsi 6 ceste a Faenza (min 2-3 ha, es. Parco Bertozzi)
-- creazione primo percorso ufficiale 9 ceste (min 5-6 ha, es. Parco delle Ginestre)
-
-Crediamo che la sinergia fra i mini percorsi in parchi centrali della città ed il percorso 9 ceste fuori porta siano una chiave importante per il successo di tutto il progetto.
-
----
-layout: image-left
-image: /lipica.png
-class: sinergia
----
-
-# Sinergia e promozione
-## Mini percorsi urbani ed il percorso 9 ceste fuori porta seguendo lo stile Nord Europeo
-<br />
-
-- Location ideali: facilmente accessibili e immerse nella natura
-- Design dei percorsi adatti a principianti ed esperti
-- Possibilità di ospitare tornei regionali e nazionali
-- Organizzazione di eventi di introduzione e open day sia in città che fuori porta
-
----
-layout: image-left
-image: /kids.jpg
-class: investimento
----
-
-# Investimento
-## Un progetto economico, aperto a collaborazioni e <span class="text-pink-500">sponsorizzazioni</span>
-<br/>
-
-- Costo stimato per l'installazione:
-  - mini percorso 6 ceste: 3.500€ circa <br/>(tee + ceste + tee sign + mappa)
-  - percorso 9 ceste: 5.000€ circa <br/>(tee + ceste + tee sign + mappa)
-- Possibilità di coprire parte dell'investimento con donazioni e sponsorizzazioni
 
 ---
 layout: image-left
@@ -221,20 +177,104 @@ class: sostenibilita
 
 ---
 layout: image-left
-image: /attention.jpg
-class: richieste
+image: /disc-golf-open-day-2025-full.jpg
+class: progetto
 ---
-# Richieste e <span class="text-cyan-500">prossimi passi</span>
+
+# Disc Golf Romagna
+## Progetto per la promozione del <span class="text-cyan-500">Disc Golf</span> in <span class="text-pink-500">Romagna</span>
 <br/>
 
-- <span class="text-pink-500">Autorizzazione ad usare i parchi con ceste e cartellonistiche temporanee</span>
-- <span class="text-cyan-500">Organizzazione allenamenti e open day</span>
-- <span class="text-pink-500">Definizione budget e sponsorizzazioni</span>
-- <span class="text-pink-500">Verifica fattibilità e modalità installazione</span>
-- <span class="text-pink-500">Delibera Comunale per installazione percorsi</span>
-- <span class="text-cyan-500">Design finale percorsi</span>
-- <span class="text-pink-500">Installazione ceste e cartellonistiche fisse</span>
-- Inaugurazione ufficiale percorsi
+- creazione primo percorso ufficiale 9 ceste al Parco delle Ginestre (Oriolo, Faenza)
+- organizzazione open day e tornei sul percorso ufficiale
+- promozione nazionale ed internazionale del percorso ufficiale sulle piattaforme di settore (udisc, pdga)
+- promozione locale del Disc Golf in scuole e parchi urbani durante eventi per studenti, giovani, sportivi e amanti della natura
+
+---
+layout: image-left
+image: /kids.jpg
+class: investimento
+---
+
+# Investimento
+## Un progetto economico e sostenibile
+<br/>
+
+Costo stimato per l'installazione completa:
+  - percorso 9 ceste: 5.500€ circa (tee + ceste + tee sign + mappa)
+
+Dopo l'installazione il percorso non aumenta il costo di manutenzione rispetto alla gestione del parco attuale.
+
+---
+layout: image-left
+image: /attention.jpg
+class: small
+---
+# Diventa parte del <span class="text-cyan-500">progetto</span>
+
+Visibilità e Promozione Locale:
+
+- Il tuo brand sarà visibile in modo permanente su una buca (cesta e tee sign).
+<!-- - Alta frequentazione del parco garantisce esposizione costante a famiglie, giovani e sportivi. -->
+
+Valorizzazione del territorio:
+
+- Contribuisci a portare un’attività innovativa e sostenibile nella comunità locale.
+<!-- - Favorisci il turismo sportivo e il benessere all’aria aperta. -->
+
+Esclusività e Personalizzazione:
+
+- Possibilità di personalizzare il nome della buca per riflettere il tuo brand.
+- Massima visibilità con il logo e un messaggio pubblicitario.
+
+
+---
+layout: image-left
+image: /attention.jpg
+class: small
+---
+# Adotta una <span class="text-cyan-500">buca</span>
+
+Cosa comprende la sponsorizzazione?
+
+- Nome della buca personalizzato (es. "Buca SponsorName").
+- Logo e messaggio visibili sul tee sign e sulla cesta.
+
+Costi e dettagli:
+
+- Costo sponsorizzazione per una buca: 550€.
+
+Durata e Benefici:
+  - Sponsorizzazione valida per 5 anni con visibilità garantita.
+  - Opportunità di organizzare eventi aziendali o promozionali sul percorso.
+
+
+---
+layout: image-left
+image: /attention.jpg
+class: small
+---
+# Il tuo contributo, <span class="text-cyan-500">completamente deducibile</span>
+
+<!-- Esempio pratico di visibilità:
+(servirebbe un’illustrazione o una foto dimostrativa) -->
+
+<!-- 
+- Una cesta con il logo dello sponsor.
+- Un tee sign personalizzato con messaggio e branding (es. "Buca 3 - SponsorName").
+-->
+
+Invito all’azione:
+- Vieni a conoscerci e prova il disc golf di persona!
+- Dove: Parco delle Ginestre.
+- Quando: Tutti i sabati (previo contatto, in caso di maltempo o gare).
+
+Contattaci per maggiori informazioni:
+
+- Email/Telefono: [Inserire contatti].
+- Offerta limitata a 9 buche: Non perdere questa occasione unica per lasciare il tuo segno!
+
+
 
 ---
 layout: image-left
