@@ -237,7 +237,7 @@ class: small
 
 Cosa comprende la sponsorizzazione?
 
-- Nome della buca personalizzato (es. "Buca SponsorName").
+- Nome della buca personalizzato (es. "Buca Nome Sponsor").
 - Logo e messaggio visibili sul tee sign e sulla cesta.
 
 Costi e dettagli:
@@ -271,7 +271,7 @@ Invito all’azione:
 
 Contattaci per maggiori informazioni:
 
-- Email/Telefono: [Inserire contatti].
+- Email: golf@harddiscdogs.com
 - Offerta limitata a 9 buche: Non perdere questa occasione unica per lasciare il tuo segno!
 
 
