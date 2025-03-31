@@ -1,21 +1,20 @@
 ---
 ## all pages
 title: Progetto Disc Golf Romagna
-titleTemplate: "%s"
+titleTemplate: '%s'
 theme: apple-basic
-background: "#E0FFC3"
+background: '#E0FFC3'
 highlighter: shiki
 lineNumbers: false
 drawings:
   persist: false
 css: unocss
-favicon: "/favicon.ico"
+favicon: '/favicon.ico'
 ## intro page
 class: intro
 layout: image
 image: /intro.jpg
 ---
-
 <style>
 .slidev-layout {
   background: rgb(200,228,173);
@@ -79,15 +78,12 @@ small {
 </style>
 
 # Disc Golf Romagna
-
 ## Un <span class="text-cyan-500">progetto innovativo</span> per lo sport e il tempo libero
 
 ---
-
 layout: image-left
 image: /discgolf.jpg
 class: one
-
 ---
 
 # Cos'è il <span class="text-cyan-500">Disc</span> Golf?
@@ -98,37 +94,29 @@ class: one
 - **Riconoscimento internazionale e fair play:** Sport con <span class="text-cyan-500">tornei</span> nazionali e internazionali, dove la competizione si unisce al <span class="text-cyan-500">rispetto</span> e alla correttezza tra i giocatori.
 
 ---
-
 layout: center
 class: center
-
 ---
-
 # Video
-
 ## A volte basta un lancio: ace!
-
 <video loop autoplay>
   <source src="/ace.mp4" type="video/mp4">
 </video>
 
 ---
-
 layout: image-left
 image: /stats.png
 class: world-stats
-
 ---
 
 # Il Disc Golf nel Mondo
-
 ## Un fenomeno sportivo in espansione globale
 
 Negli ultimi anni il disc golf ha registrato una crescita esponenziale, i dati PDGA 2023:
 
-- Oltre 130.000 membri PDGA
-- Oltre 10.000 campi di disc golf registrati in oltre 100 paesi
-- Oltre 10.000 eventi PDGA con un significativo incremento anche a livello di premi e copertura mediatica.
+  - Oltre 130.000 membri PDGA
+  - Oltre 10.000 campi di disc golf registrati in oltre 100 paesi
+  - Oltre 10.000 eventi PDGA con un significativo incremento anche a livello di premi e copertura mediatica.
 
 <br/>
 
@@ -136,16 +124,11 @@ Negli ultimi anni il disc golf ha registrato una crescita esponenziale, i dati P
 <small>www.pdga.com</small>
 
 ---
-
 layout: two-cols
 class: europe
-
 ---
-
 # Il caso Nord Europeo
-
 ## Estonia: Da 0 a 200+ percorsi in 10 anni
-
 <video loop autoplay>
   <source src="/growth.mp4" type="video/mp4">
 </video>
@@ -154,30 +137,21 @@ class: europe
 <small>[www.udisc.com](https://udisc.com/disc-golf-growth-report)</small>
 
 ::right::
-
 ### Il caso
-
 - Percorsi fissi: 25 percorsi nel 2015, oltre 200 percorsi nel 2024
 - Popolazione coinvolta: circa 500 nel 2015, oltre 50.000 giocatori nel 2024
-
 ### Benefici Dimostrati
-
 - Turismo sportivo (+300% dal 2019)
 - Costi di manutenzione minimi
 - Alto ritorno sociale dell'investimento
 
 ---
-
 layout: image-left
 image: /conrad-holy-shot.jpg
 class: benefici
-
 ---
-
 # Benefici
-
 ## Un potenziale di crescita e ritorno per la <span class="text-pink-500">comunità</span>
-
 <br/>
 
 - Attrazione per turisti appassionati dello sport
@@ -188,17 +162,13 @@ class: benefici
 - Programmi educativi per scuole e gruppi giovanili
 
 ---
-
 layout: image-left
 image: /tee.jpg
 class: sostenibilita
-
 ---
 
 # Sostenibilità
-
 ## Il Disc Golf è uno sport ecologico ed <span class="text-pink-500">ecosostenibile</span>
-
 <br/>
 
 - Minimo impatto ambientale nell'installazione di ceste, tee e segnaletica
@@ -206,17 +176,13 @@ class: sostenibilita
 - Incoraggia l'attività fisica all'aria aperta
 
 ---
-
 layout: image-left
 image: /disc-golf-open-day-2025-full.jpg
 class: progetto
-
 ---
 
 # Disc Golf Romagna
-
 ## Progetto per la promozione del <span class="text-cyan-500">Disc Golf</span> in <span class="text-pink-500">Romagna</span>
-
 <br/>
 
 - creazione primo percorso ufficiale 9 ceste al Parco delle Ginestre (Oriolo, Faenza)
@@ -225,33 +191,25 @@ class: progetto
 - promozione locale del Disc Golf in scuole e parchi urbani durante eventi per studenti, giovani, sportivi e amanti della natura
 
 ---
-
 layout: image-left
 image: /kids.jpg
 class: investimento
-
 ---
 
 # Investimento
-
 ## Un progetto economico e sostenibile
-
 <br/>
 
 Costo stimato per l'installazione completa:
-
-- percorso 9 ceste: 5.500€ circa (tee + ceste + tee sign + mappa)
+  - percorso 9 ceste: 5.500€ circa (tee + ceste + tee sign + mappa)
 
 Dopo l'installazione il percorso non aumenta il costo di manutenzione rispetto alla gestione del parco attuale.
 
 ---
-
 layout: image-left
 image: /attention.jpg
 class: small
-
 ---
-
 # Diventa parte del <span class="text-cyan-500">progetto</span>
 
 Visibilità e Promozione Locale:
@@ -269,19 +227,17 @@ Esclusività e Personalizzazione:
 - Possibilità di personalizzare il nome della buca per riflettere il tuo brand.
 - Massima visibilità con il logo e un messaggio pubblicitario.
 
----
 
+---
 layout: image-left
 image: /attention.jpg
 class: small
-
 ---
-
 # Adotta una <span class="text-cyan-500">buca</span>
 
 Cosa comprende la sponsorizzazione?
 
-- Nome della buca personalizzato (es. "Buca Nome Sponsor").
+- Nome della buca personalizzato (es. "Buca SponsorName").
 - Logo e messaggio visibili sul tee sign e sulla cesta.
 
 Costi e dettagli:
@@ -289,45 +245,41 @@ Costi e dettagli:
 - Costo sponsorizzazione per una buca: 550€.
 
 Durata e Benefici:
+  - Sponsorizzazione valida per 5 anni con visibilità garantita.
+  - Opportunità di organizzare eventi aziendali o promozionali sul percorso.
 
-- Sponsorizzazione valida per 5 anni con visibilità garantita.
-- Opportunità di organizzare eventi aziendali o promozionali sul percorso.
 
 ---
-
 layout: image-left
 image: /attention.jpg
 class: small
-
 ---
-
 # Il tuo contributo, <span class="text-cyan-500">completamente deducibile</span>
 
 <!-- Esempio pratico di visibilità:
 (servirebbe un’illustrazione o una foto dimostrativa) -->
 
-<!--
+<!-- 
 - Una cesta con il logo dello sponsor.
 - Un tee sign personalizzato con messaggio e branding (es. "Buca 3 - SponsorName").
 -->
 
 Invito all’azione:
-
 - Vieni a conoscerci e prova il disc golf di persona!
 - Dove: Parco delle Ginestre.
 - Quando: Tutti i sabati (previo contatto, in caso di maltempo o gare).
 
 Contattaci per maggiori informazioni:
 
-- Email: golf@harddiscdogs.com
+- Email/Telefono: [Inserire contatti].
 - Offerta limitata a 9 buche: Non perdere questa occasione unica per lasciare il tuo segno!
 
----
 
+
+---
 layout: image-left
 image: /saluti.jpg
 class: outro
-
 ---
 
 # Grazie per l'attenzione!
