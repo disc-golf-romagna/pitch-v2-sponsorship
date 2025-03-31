@@ -230,7 +230,7 @@ Esclusività e Personalizzazione:
 
 ---
 layout: image-left
-image: /attention.jpg
+image: /basket-sponsor.png
 class: small
 ---
 # Adotta una <span class="text-cyan-500">buca</span>
@@ -266,8 +266,9 @@ class: small
 
 Invito all’azione:
 - Vieni a conoscerci e prova il disc golf di persona!
-- Dove: Parco delle Ginestre.
+- Dove: Parco delle Ginestre, Faenza.
 - Quando: Tutti i sabati (previo contatto, in caso di maltempo o gare).
+(Al momento stiamo usando il Parco con ceste mobili portatili).
 
 Contattaci per maggiori informazioni:
 
