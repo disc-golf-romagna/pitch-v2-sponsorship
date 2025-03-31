@@ -207,14 +207,14 @@ Dopo l'installazione il percorso non aumenta il costo di manutenzione rispetto a
 
 ---
 layout: image-left
-image: /attention.jpg
+image: /mappa.jpg
 class: small
 ---
 # Diventa parte del <span class="text-cyan-500">progetto</span>
 
 Visibilità e Promozione Locale:
 
-- Il tuo brand sarà visibile in modo permanente su una buca (cesta e tee sign).
+- Il tuo brand sarà visibile in modo permanente su una buca (cesta e tee sign) e sul cartello generale del percorso all'ingresso del parco.
 <!-- - Alta frequentazione del parco garantisce esposizione costante a famiglie, giovani e sportivi. -->
 
 Valorizzazione del territorio:
@@ -267,8 +267,7 @@ class: small
 Invito all’azione:
 - Vieni a conoscerci e prova il disc golf di persona!
 - Dove: Parco delle Ginestre, Faenza.
-- Quando: Tutti i sabati (previo contatto, in caso di maltempo o gare).
-(Al momento stiamo usando il Parco con ceste mobili portatili).
+- Quando: Tutti i sabati (previo contatto, in caso di maltempo o gare, al momento stiamo usando il Parco con ceste mobili portatili).
 
 Contattaci per maggiori informazioni:
 
