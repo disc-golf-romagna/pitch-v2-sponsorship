@@ -75,6 +75,16 @@ small {
 .slidev-layout.small li {
     font-size: .90rem;
 }
+
+.fix {
+  line-height: 1;
+}
+
+.text-small {
+  font-size: 0.75rem;
+  display: inline-block;
+}
+
 </style>
 
 # Disc Golf Romagna
@@ -230,7 +240,7 @@ Esclusività e Personalizzazione:
 
 ---
 layout: image-left
-image: /basket-sponsor.png
+image: /basket-sponsor-wood-1.png
 class: small
 ---
 # Adotta una <span class="text-cyan-500">buca</span>
@@ -248,7 +258,7 @@ Durata e Benefici:
   - Sponsorizzazione valida per 5 anni con visibilità garantita.
   - Opportunità di organizzare eventi aziendali o promozionali sul percorso.
 
-
+<span class="fix"><span class="text-cyan-500 text-small">Nota: immagine generata con AI, rappresenta verosimilmente la cesta con lo sponsor, il tee sign che sarà posizionato ad inizio della buca e dietro il cartellone del percorso generale che sarà posizionato all'ingresso del parco, con qualche errore di chatgpt.</span></span>
 ---
 layout: image-left
 image: /attention.jpg
