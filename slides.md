@@ -211,7 +211,7 @@ class: investimento
 <br/>
 
 Costo stimato per l'installazione completa:
-  - percorso 9 ceste: 5.500€ circa (tee + ceste + tee sign + mappa)
+  - percorso 9 ceste: 4.950€ circa (tee + ceste + tee sign + mappa)
 
 Dopo l'installazione il percorso non aumenta il costo di manutenzione rispetto alla gestione del parco attuale.
 
