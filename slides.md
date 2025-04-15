@@ -165,10 +165,10 @@ class: progetto
 ## Progetto per la promozione del <span class="text-cyan-500">Disc Golf</span> in <span class="text-pink-500">Romagna</span>
 <br/>
 
-- creazione primo <span class="text-cyan-500">percorso ufficiale 9 ceste</span> al Parco delle Ginestre (Oriolo, Faenza)
-- organizzazione <span class="text-cyan-500">open day e tornei</span> sul percorso ufficiale
-- promozione nazionale ed internazionale del percorso ufficiale sulle <span class="text-cyan-500">piattaforme di settore</span> (udisc, upsi app, pdga)
-- promozione locale del Disc Golf in <span class="text-cyan-500">scuole e parchi</span> urbani durante eventi per studenti, giovani, sportivi e amanti della natura
+- Creazione primo <span class="text-cyan-500">percorso ufficiale 9 ceste</span> al Parco delle Ginestre (Oriolo, Faenza)
+- Organizzazione <span class="text-cyan-500">open day e tornei</span> sul percorso ufficiale
+- Promozione nazionale ed internazionale del percorso ufficiale sulle <span class="text-cyan-500">piattaforme di settore</span> (udisc, upsi app, pdga)
+- Promozione locale del Disc Golf in <span class="text-cyan-500">scuole e parchi</span> urbani durante eventi per studenti, giovani, sportivi e amanti della natura
 
 ---
 layout: image-left
