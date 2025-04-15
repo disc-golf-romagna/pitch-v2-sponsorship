@@ -157,6 +157,21 @@ class: europe
 
 ---
 layout: image-left
+image: /disc-golf-open-day-2025-full.jpg
+class: progetto
+---
+
+# Disc Golf Romagna
+## Progetto per la promozione del <span class="text-cyan-500">Disc Golf</span> in <span class="text-pink-500">Romagna</span>
+<br/>
+
+- creazione primo <span class="text-cyan-500">percorso ufficiale 9 ceste</span> al Parco delle Ginestre (Oriolo, Faenza)
+- organizzazione <span class="text-cyan-500">open day e tornei</span> sul percorso ufficiale
+- promozione nazionale ed internazionale del percorso ufficiale sulle <span class="text-cyan-500">piattaforme di settore</span> (udisc, upsi app, pdga)
+- promozione locale del Disc Golf in <span class="text-cyan-500">scuole e parchi</span> urbani durante eventi per studenti, giovani, sportivi e amanti della natura
+
+---
+layout: image-left
 image: /conrad-holy-shot.jpg
 class: benefici
 ---
@@ -185,20 +200,8 @@ class: sostenibilita
 - Promuove il rispetto per la natura e l'ambiente
 - Incoraggia l'attività fisica all'aria aperta
 
----
-layout: image-left
-image: /disc-golf-open-day-2025-full.jpg
-class: progetto
----
-
-# Disc Golf Romagna
-## Progetto per la promozione del <span class="text-cyan-500">Disc Golf</span> in <span class="text-pink-500">Romagna</span>
-<br/>
-
-- creazione primo percorso ufficiale 9 ceste al Parco delle Ginestre (Oriolo, Faenza)
-- organizzazione open day e tornei sul percorso ufficiale
-- promozione nazionale ed internazionale del percorso ufficiale sulle piattaforme di settore (udisc, pdga)
-- promozione locale del Disc Golf in scuole e parchi urbani durante eventi per studenti, giovani, sportivi e amanti della natura
+<br /><br /><br />
+<span class="fix"><span class="text-cyan-500 text-small">Nota: nell'immagine un classico tee-sign piantato a terra a vite ed un tee-pad in erba sintetica posizionato provvisoriamente per un torneo.</span></span>
 
 ---
 layout: image-left
@@ -255,7 +258,7 @@ Costi e dettagli:
 - Costo sponsorizzazione per una buca: 550€.
 
 Durata e Benefici:
-  - Sponsorizzazione valida per 5 anni con visibilità garantita.
+  - Sponsorizzazione valida per 5 anni.
   - Opportunità di organizzare eventi aziendali o promozionali sul percorso.
 
 <span class="fix"><span class="text-cyan-500 text-small">Nota: immagine generata con AI, rappresenta verosimilmente la cesta con lo sponsor, il tee sign che sarà posizionato ad inizio della buca e dietro il cartellone del percorso generale che sarà posizionato all'ingresso del parco, con qualche errore di chatgpt.</span></span>
